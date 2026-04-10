@@ -5,7 +5,7 @@ An Arduino-based rover using ultrasonic sensors to detect and avoid obstacles.
 
 ## Components
 - Arduino Uno
-- ultrasonic Sensor (HC-SR04)
+- Ultrasonic Sensor (HC-SR04)
 - Servo Motor
 - Standard motors
 - Motor Driver
