@@ -40,7 +40,7 @@ An Arduino-based rover using ultrasonic sensors to detect and avoid obstacles.
 - The rover will adjust its course to move in the direction with the clearest path.
 
 ## Run
-- open .ino file in Arduino IDE
+- Open .ino file in Arduino IDE
 - Connect Arduino Uno vis USB
 - Select correct board and COM port
 - Upload code to Arduino Uno
